@@ -5,18 +5,63 @@
   "framework": "astro",
   "redirects": [
     {
+      "source": "/recommends/rezdy",
+      "destination": "https://www.rezdy.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/fareharbor",
+      "destination": "https://fareharbor.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/checkfront",
+      "destination": "https://www.checkfront.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/peekpro",
+      "destination": "https://www.peek.com/pro",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/xola",
+      "destination": "https://www.xola.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/safetywing",
+      "destination": "https://safetywing.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/regiondo",
+      "destination": "https://www.regiondo.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/smartwaiver",
+      "destination": "https://www.smartwaiver.com/",
+      "permanent": false
+    },
+    {
       "source": "/recommends/gohighlevel",
-      "destination": "https://www.gohighlevel.com/?fp_ref=example",
+      "destination": "https://www.gohighlevel.com/?fp_ref=stosh61",
       "permanent": false
     },
     {
-      "source": "/recommends/aweber",
-      "destination": "https://aweber.com/?id=example",
+      "source": "/recommends/bokun",
+      "destination": "https://www.bokun.io/",
       "permanent": false
     },
     {
-      "source": "/recommends/kinsta",
-      "destination": "https://kinsta.com/?kaid=example",
+      "source": "/recommends/waiverforever",
+      "destination": "https://www.waiverforever.com/",
+      "permanent": false
+    },
+    {
+      "source": "/recommends/viator",
+      "destination": "https://www.viator.com/",
       "permanent": false
     }
   ],

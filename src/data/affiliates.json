@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "slug": "rezdy",
+    "name": "Rezdy",
+    "url": "https://www.rezdy.com/",
+    "commission": "30% recurring (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "Most consistent lifetime program for tour operators. Apply: https://www.rezdy.com/partners/"
+  },
+  {
+    "slug": "fareharbor",
+    "name": "FareHarbor",
+    "url": "https://fareharbor.com/",
+    "commission": "15% per sale (per-transaction, NOT recurring)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "Operates as a Distribution Network — earn on individual bookings, not the software sub. Apply: https://fareharbor.com/distribution-network/"
+  },
+  {
+    "slug": "checkfront",
+    "name": "Checkfront",
+    "url": "https://www.checkfront.com/",
+    "commission": "$99+ bounty (one-time)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "2026 terms shifted to high-ticket bounty for new operator signups, no recurring. Apply: https://www.checkfront.com/partners/"
+  },
+  {
+    "slug": "peekpro",
+    "name": "Peek Pro",
+    "url": "https://www.peek.com/pro",
+    "commission": "10–20% revenue share (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "Paid monthly for life of account. Recently added AI retention tools. Apply: https://www.peek.com/pro/partners"
+  },
+  {
+    "slug": "xola",
+    "name": "Xola",
+    "url": "https://www.xola.com/",
+    "commission": "20% recurring (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "Explicitly offers 'lifetime commission' for attraction and tour memberships. Apply: https://www.xola.com/partners"
+  },
+  {
+    "slug": "safetywing",
+    "name": "SafetyWing",
+    "url": "https://safetywing.com/",
+    "commission": "10–20% recurring (verified lifetime)",
+    "network": "impact",
+    "status": "pending",
+    "category": "travel-insurance",
+    "notes": "Earns on every policy renewal for life of customer. Strong fit for tour operators promoting traveler insurance. Apply: https://safetywing.com/affiliates"
+  },
+  {
+    "slug": "regiondo",
+    "name": "Regiondo",
+    "url": "https://www.regiondo.com/",
+    "commission": "20% recurring (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "20% on all monthly subscription fees for referred operators. EU-strong. Apply: https://pro.regiondo.com/partners/"
+  },
+  {
+    "slug": "smartwaiver",
+    "name": "Smartwaiver",
+    "url": "https://www.smartwaiver.com/",
+    "commission": "20% recurring (verified lifetime)",
+    "network": "direct",
+    "status": "pending",
+    "category": "waivers",
+    "notes": "Sticky add-on — once integrated, operators rarely switch. Apply: https://www.smartwaiver.com/partners/"
+  },
+  {
+    "slug": "gohighlevel",
+    "name": "GoHighLevel",
+    "url": "https://www.gohighlevel.com/?fp_ref=stosh61",
+    "commission": "40% recurring (lifetime)",
+    "network": "firstpromoter",
+    "status": "active",
+    "category": "all-in-one-marketing",
+    "notes": "Carried over from OperatorStack — VERIFY with GHL whether the same fp_ref code can be used for promoting from traveloperator.io or if a separate registration is required."
+  },
+  {
+    "slug": "bokun",
+    "name": "Bókun",
+    "url": "https://www.bokun.io/",
+    "commission": "Bounty + recurring (TripAdvisor-owned)",
+    "network": "direct",
+    "status": "pending",
+    "category": "booking-platform",
+    "notes": "Primary competitor to Rezdy, owned by TripAdvisor. High-ticket bonuses for new PRO users. Apply: https://www.bokun.io/partners"
+  },
+  {
+    "slug": "waiverforever",
+    "name": "WaiverForever",
+    "url": "https://www.waiverforever.com/",
+    "commission": "20% recurring (2026 partner track)",
+    "network": "direct",
+    "status": "pending",
+    "category": "waivers",
+    "notes": "Direct competitor to Smartwaiver. New 2026 partner track matches at 20% recurring. Apply: https://www.waiverforever.com/partners"
+  },
+  {
+    "slug": "viator",
+    "name": "Viator Travel Agent",
+    "url": "https://www.viator.com/",
+    "commission": "8–15% per sale (marketplace)",
+    "network": "direct",
+    "status": "pending",
+    "category": "marketplace",
+    "notes": "Not software — the largest tour marketplace operators list on. Per-booking commissions. Apply: https://www.viator.com/travelagents/"
+  }
+]
