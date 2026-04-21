@@ -17,7 +17,7 @@
     "network": "direct",
     "status": "pending",
     "category": "booking-platform",
-    "notes": "Operates as a Distribution Network — earn on individual bookings, not the software sub. Apply: https://fareharbor.com/distribution-network/"
+    "notes": "Operates as a Distribution Network \u2014 earn on individual bookings, not the software sub. Apply: https://fareharbor.com/distribution-network/"
   },
   {
     "slug": "checkfront",
@@ -33,7 +33,7 @@
     "slug": "peekpro",
     "name": "Peek Pro",
     "url": "https://www.peek.com/pro",
-    "commission": "10–20% revenue share (verified lifetime)",
+    "commission": "10\u201320% revenue share (verified lifetime)",
     "network": "direct",
     "status": "pending",
     "category": "booking-platform",
@@ -53,7 +53,7 @@
     "slug": "safetywing",
     "name": "SafetyWing",
     "url": "https://safetywing.com/",
-    "commission": "10–20% recurring (verified lifetime)",
+    "commission": "10\u201320% recurring (verified lifetime)",
     "network": "impact",
     "status": "pending",
     "category": "travel-insurance",
@@ -77,7 +77,7 @@
     "network": "direct",
     "status": "pending",
     "category": "waivers",
-    "notes": "Sticky add-on — once integrated, operators rarely switch. Apply: https://www.smartwaiver.com/partners/"
+    "notes": "Sticky add-on \u2014 once integrated, operators rarely switch. Apply: https://www.smartwaiver.com/partners/"
   },
   {
     "slug": "gohighlevel",
@@ -87,11 +87,11 @@
     "network": "firstpromoter",
     "status": "active",
     "category": "all-in-one-marketing",
-    "notes": "Carried over from TravelOperator — VERIFY with GHL whether the same fp_ref code can be used for promoting from traveloperator.io or if a separate registration is required."
+    "notes": "Carried over from TravelOperator \u2014 VERIFY with GHL whether the same fp_ref code can be used for promoting from traveloperator.io or if a separate registration is required."
   },
   {
     "slug": "bokun",
-    "name": "Bókun",
+    "name": "B\u00f3kun",
     "url": "https://www.bokun.io/",
     "commission": "Bounty + recurring (TripAdvisor-owned)",
     "network": "direct",
@@ -113,10 +113,46 @@
     "slug": "viator",
     "name": "Viator Travel Agent",
     "url": "https://www.viator.com/",
-    "commission": "8–15% per sale (marketplace)",
+    "commission": "8\u201315% per sale (marketplace)",
     "network": "direct",
     "status": "pending",
     "category": "marketplace",
-    "notes": "Not software — the largest tour marketplace operators list on. Per-booking commissions. Apply: https://www.viator.com/travelagents/"
+    "notes": "Not software \u2014 the largest tour marketplace operators list on. Per-booking commissions. Apply: https://www.viator.com/travelagents/"
+  },
+  {
+    "slug": "invideo",
+    "name": "InVideo",
+    "url": "https://invideo.sjv.io/MX07zn",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Video & Content"
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "url": "https://goto.munchstudio.com/B5zEM1",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Social Media"
+  },
+  {
+    "slug": "sparrowdesk",
+    "name": "SparrowDesk",
+    "url": "https://sparrowdesk.pxf.io/AgmG9J",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Support & Helpdesk"
+  },
+  {
+    "slug": "melio",
+    "name": "Melio",
+    "url": "https://melio.sjv.io/bkDbo9",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Payments & Billing"
   }
 ]
