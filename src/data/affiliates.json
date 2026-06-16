@@ -152,5 +152,45 @@
     "network": "other",
     "status": "pending",
     "category": "Travel Marketplace"
+  },
+  {
+    "slug": "duda",
+    "name": "Duda",
+    "url": "https://duda.sjv.io/vDQBkN",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "website-builder",
+    "notes": "Added 2026-06-16 via bulk affiliate import."
+  },
+  {
+    "slug": "docparser",
+    "name": "Docparser",
+    "url": "https://docparser.com/?ref=efhmj",
+    "network": "direct",
+    "commission": "referral",
+    "status": "active",
+    "category": "Document Automation",
+    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+  },
+  {
+    "slug": "ringplanet",
+    "name": "RingPlanet",
+    "url": "https://preferredlongdistance.pxf.io/yZj0Ay",
+    "network": "impact",
+    "commission": "\u2014",
+    "status": "active",
+    "category": "voip-business-phone",
+    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
+  },
+  {
+    "slug": "omnisend",
+    "name": "Omnisend",
+    "url": "https://your.omnisend.com/n4RkQ6",
+    "network": "impact",
+    "commission": "20% recurring",
+    "status": "active",
+    "category": "Email Marketing",
+    "notes": "Cross-pollinated 2026-06-16 \u2014 partner active elsewhere in portfolio."
   }
 ]
