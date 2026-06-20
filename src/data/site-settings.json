@@ -2,7 +2,9 @@
   "schemaVersion": 1,
   "plausibleScriptId": "pa-7VJPE5NuEJTqTgXlaYYGu",
   "plausibleDomain": "travel.stackedoperator.com",
-  "googleVerification": null,
+  "googleVerification": [
+    "TmvNB8t3pt5R7HMzFMfAiaHHR2Efas6_tO5QOfUVirU"
+  ],
   "impactVerification": [
     "7832360d-b3f5-4799-9dcd-ccc5adc5db2e"
   ],

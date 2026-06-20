@@ -56,12 +56,12 @@ const websiteLd = {
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="generator" content={Astro.generator} />
-  {site.googleVerification && (
-    <meta name="google-site-verification" content={site.googleVerification} />
-  )}
-  {site.impactVerification && (
-    <meta name="impact-site-verification" value={site.impactVerification} />
-  )}
+  {site.googleVerification.map((code) => (
+    <meta name="google-site-verification" content={code} />
+  ))}
+  {site.impactVerification.map((id) => (
+    <meta name="impact-site-verification" value={id} />
+  ))}
 
   <!-- Brand color + font overrides — pulled from env via site config -->
   <style is:inline define:vars={{

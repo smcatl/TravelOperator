@@ -67,8 +67,12 @@ export const site = {
     : '',
   plausibleDomain: settings.plausibleDomain ?? '',
   impactCdnId: env.PUBLIC_IMPACT_CDN_ID ?? '',
-  googleVerification: settings.googleVerification ?? '',
-  impactVerification: (settings.impactVerification ?? []).join(','),
+  // Multiple codes supported: each one renders as its own <meta> tag.
+  // Lets a single site verify both standalone + subdomain properties in GSC.
+  googleVerification: Array.isArray(settings.googleVerification)
+    ? settings.googleVerification
+    : settings.googleVerification ? [settings.googleVerification] : [],
+  impactVerification: settings.impactVerification ?? [],
 
   // Editorial — used by api/generate-article.js (server-side only)
   editorialPersona:
