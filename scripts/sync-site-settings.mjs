@@ -5,10 +5,11 @@
  * API is unreachable (so builds never break on network issues).
  *
  * Required env vars:
- *   SETTINGS_API_URL  — e.g. https://stacksites-admin.vercel.app/api/sites/<slug>/settings
+ *   SETTINGS_API_URL  — e.g. https://stacksites-admin.vercel.app/api/sites/<slug>/settings/export
  *
  * Optional env vars:
- *   SETTINGS_API_KEY  — Bearer token if the endpoint is gated
+ *   SETTINGS_API_KEY  — Bearer token if the endpoint is gated (the /export
+ *                       route is public by design — token not needed)
  *
  * Same pattern as scripts/sync-affiliates.mjs. Copy this file verbatim into
  * each site repo at scripts/sync-site-settings.mjs.
