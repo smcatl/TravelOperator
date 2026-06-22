@@ -60,7 +60,8 @@
       "category": "reviews",
       "slug": "xola-review-2026",
       "affiliateLinks": "xola — https://traveloperator.com/recommends/xola",
-      "status": "queued"
+      "status": "published",
+      "publishedDate": "2026-06-22"
     },
     {
       "title": "Best Travel Operator Tech Stack 2026: Scale Past 5 Locations",
