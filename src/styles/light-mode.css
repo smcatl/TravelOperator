@@ -158,9 +158,17 @@ h3 {
 }
 
 /* ----- Buttons ----- */
+/* visual-overhaul:2026-06-21 */
 .btn-teal {
   background: var(--brandAccent);
-  color: var(--light-bg);
+  color: #ffffff;
+  border: 2px solid var(--brandAccent);
+  font-weight: 700;
+}
+.btn-teal:hover {
+  background: var(--brandAccentLight);
+  border-color: var(--brandAccentLight);
+  color: #ffffff;
 }
 
 .btn-teal:hover {
@@ -169,7 +177,13 @@ h3 {
 
 .btn-outline {
   color: var(--light-text) !important;
-  border-color: var(--light-border-strong) !important;
+  border: 2px solid var(--light-text) !important;
+  background: transparent;
+  font-weight: 600;
+}
+.btn-outline:hover {
+  background: var(--light-text) !important;
+  color: var(--light-bg) !important;
 }
 
 .btn-outline:hover {

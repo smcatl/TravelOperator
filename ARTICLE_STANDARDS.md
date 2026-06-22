@@ -6,7 +6,7 @@ Last updated: April 2026
 - NEVER use first person singular ("I tested", "my experience", "I found")
 - Always "we", "our team", "our testing"
 - Credential: our team has reviewed thousands of software tools and managed thousands of locations across travel agencies, tour operators, and hospitality businesses
-- NEVER mention SkyYield, Stosh, Nadim, or any individual names
+- NEVER mention any parent company, founder, or individual team member names
 - NEVER mention being paid, earning commissions, or receiving referral payments in article body text
 - Use real numbers: actual costs, real deployment counts, specific tools
 - Be honest about cons even on tools we recommend
@@ -79,7 +79,7 @@ Full Comparison Table → Our Recommendation → CTA
 
 ## Prohibited Content
 - NEVER mention earning money from affiliate links, referral fees, or commissions in article text
-- NEVER mention SkyYield, any parent company, or individual team member names
+- NEVER mention any parent company, founder, or individual team member names
 - NEVER use "I" or first-person singular — always team voice ("we", "our team")
 - NEVER reference specific revenue, income, or earnings from recommendations
 - NEVER use crypto/blockchain terminology (tokens, coins, epochs, mining, staking)
