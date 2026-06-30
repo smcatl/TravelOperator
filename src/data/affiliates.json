@@ -131,9 +131,12 @@
     "name": "Moosend",
     "url": "https://trymoo.moosend.com/68v8v144fh7a",
     "commission": "30% lifetime",
-    "network": "direct",
+    "network": "partnerstack",
     "status": "active",
-    "category": "Email Marketing"
+    "category": "Email Marketing",
+    "externalProgramId": "comp_e864e089635d4933b4683fc3baa60da4",
+    "applicationStatus": "approved",
+    "approvedAt": "2026-06-30T21:05:52.826Z"
   },
   {
     "slug": "invoice-ninja",
